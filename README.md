@@ -6,7 +6,7 @@ PC, Cyclone II , USB flasher
 ### SOFTWARE REQUIRED :  
 Quartus prime
 ### THEORY :
-SR Flip-Flop
+### SR Flip-Flop
 SR flip-flop operates with only positive clock transitions or negative clock transitions. Whereas, SR latch operates with enable signal. The circuit diagram of SR flip-flop is shown in the following figure.
 
 ![image](https://user-images.githubusercontent.com/36288975/167910294-bb550548-b1dc-4cba-9044-31d9037d476b.png)
