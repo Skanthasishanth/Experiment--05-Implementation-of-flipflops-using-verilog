@@ -187,17 +187,36 @@ nand (Qbar,R,Q);
 endmodule
 ```
 
-### RTL LOGIC FOR FLIPFLOPS 
+### RTL LOGIC FOR FLIPFLOPS :
+
+#### SR FLIP-FLOP :
+![SR](https://github.com/Skanthasishanth/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/SR.png)
+
+#### JK FLIP-FLOP :
+![JK](https://github.com/Skanthasishanth/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/JK.png)
+
+#### D FLIP-FLOP :
+![D](https://github.com/Skanthasishanth/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/D.png)
+
+#### T FLIP-FLOP :
+
+![T](https://github.com/Skanthasishanth/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/T.png)
 
 
+### TIMING DIGRAMS FOR FLIP FLOPS :
 
+#### SR FLIP-FLOP :
+![SR TD](https://github.com/Skanthasishanth/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/SR%20TD.png)
 
+#### JK FLIP-FLOP :
+![JK TD](https://github.com/Skanthasishanth/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/JK%20TD.png)
 
+#### D FLIP-FLOP :
+![D TD](https://github.com/Skanthasishanth/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/D%20TD.png)
 
+#### T FLIP-FLOP :
 
-
-
-### TIMING DIGRAMS FOR FLIP FLOPS 
+![T TD](https://github.com/Skanthasishanth/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/T%20TD.png)
 
 
 
@@ -207,3 +226,4 @@ endmodule
 
 
 ### RESULT :
+Thus, the program for flipflops is implemented and its functional table is successfully verified in quartus using Verilog programming.
